@@ -7,7 +7,7 @@ Currently I am available for hire (remotely, full-time or contracts).
 My areas of interest are:
 - JavaScript infrasture: frameworks, tooling and libraries
 - Design Patterns and CSS architecture
-- Challenging and Transitional to the next level
+- Clean and Ambitious Projects
 
 📬 [DM me on Twitter](https://twitter.com/saschamars)
 
