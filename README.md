@@ -1,15 +1,13 @@
 Sup 🙏🏿
 - 
-My name is Marlon and I'm a JavaScript and Frontend Engineer as well a TypeScript enthuist 👨🏿‍💻.
-
-Currently I am available for hire (remotely, full-time or contracts).
+My name is Marlon and I'm a Frontend Engineer 👨🏿‍💻.
 
 My areas of interest are:
 - JavaScript infrasture: frameworks, tooling and libraries
 - Design Patterns and CSS architecture
 - Clean and Ambitious Projects
 
-📬 [DM me on Twitter](https://twitter.com/saschamars)
+![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrs)
 
 
 <!--
