@@ -6,7 +6,7 @@ My areas of interest are:
 - JavaScript infrasture: frameworks, tooling and libraries
 - Design Patterns and CSS architecture
 - Clean and Ambitious Projects
-
+<!--
 ![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrs)
 
 
